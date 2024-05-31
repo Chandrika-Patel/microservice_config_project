@@ -1,5 +1,5 @@
-
-eureka:
-  instance:
-      client:
-          serverUrl.defaultZone=http://localhost:8761/eureka/
+ {
+    "name": "eureka.instance.client",
+    "type": "java.lang.String",
+    "description": "A description for 'eureka.instance.client'"
+  }
