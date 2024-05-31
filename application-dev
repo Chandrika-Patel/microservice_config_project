@@ -1,0 +1,8 @@
+#database configuration
+<br>
+spring.datasource.url=jdbc:mysql://localhost:3306/micro_yt
+<br>
+spring.datasource.username=root
+<br>
+spring.datasource.password=root
+<br>
