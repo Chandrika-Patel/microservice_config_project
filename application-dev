@@ -1,4 +1,5 @@
 #database configuration
+spring.application.name="confi-dev"
 <br>
 spring.datasource.url=jdbc:mysql://localhost:3306/micro_yt
 <br>
